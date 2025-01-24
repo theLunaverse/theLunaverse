@@ -5,8 +5,9 @@ welcome to my github account!
 
 💻 I have experience with multiple programming languages, including:
 - Python
-- HTML & CSS
 - JavaScript
+- HTML & CSS
+
 
 🔍 I'm always excited to apply my skills in new projects and learn more about the intersections between coding and cybersecurity. Feel free to explore my repositories, where I work on projects that combine coding with cybersecurity principles.
 
